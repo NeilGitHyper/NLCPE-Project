@@ -9,6 +9,6 @@ I Will Create More Games to be extracted in The Future, So Yah?
 Just Download The Tool In The Release Tab.
 
 # Tutorial 
-Just Click The Extract Button.
+Just Click The Extract Button. After That, The Files Will Be In Internal Storage/NPLCPE/Extracted Games/
 If You having Errors, Just Lemme Know.
 
