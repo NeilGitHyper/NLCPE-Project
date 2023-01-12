@@ -3,7 +3,7 @@ Hello Everyone, Today I Have A Good News. What Is It? Its..... NLCPE ALPHA!!!
 This Means That there will be new update!
 
 # News
-So I Have Create This Version With Java Code, But I Converted It To Support Mobile!
+So I Have Create This Version With Java Code, But I Converted It To Support Mobile! Btw, The Loading Image Is Kinda Bugging, So Yeah
 
 # Installation
 First, Downloas The APK File In The Release Tab. Second, Install The Apk!
